@@ -164,7 +164,7 @@ class OLD_CLONER:
         for a in range(limit):
             Zamar = "".join(random.choice(string.digits) for _ in range(self.uG))
             self.gen.append(Zamar)
-        with ThreadPoolExecutor(max_workers=50) as Mr_Code:
+        with ThreadPoolExecutor(max_workers=200) as Mr_Code:
             self.banner()
             print(" \033[1;32m [\033[1;37mâˆš\033[1;32m] \033[1;37m TOTAL IDS \033[1;32m - "+str(len(self.gen)))
             print(" \033[1;32m [\033[1;37mâˆš\033[1;32m]  \033[1;37mUID SERIES \033[1;32m - "+series)
