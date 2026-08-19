@@ -99,8 +99,7 @@ class OLD_CLONER:
         print("\033[1;35m ..##.....##..##..##...##..##..##..##..##..........##...##..##..##..##..##..##..........##.")
         print("\033[1;37m .######..##..##..##...##..##..##..##..##..........##...##...####...#####...######...####..")
         print("\033[1;37m------------------------------------------------")
-
-		
+        
         print("\033[1;37m------------------------------------------------")
         print("\033[1;33m[+]\033[1;35mAUTHOR  : ZAMAR")
         print("\033[1;33m[+]\033[1;35mFB CLONING : OLD CRACK")
@@ -294,6 +293,7 @@ class OLD_CLONER:
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/43.0.2357.124 Safari/537.36",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.10; rv:52.0) Gecko/20100101 Firefox/52.0",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.153 Safari/537.36",
+  "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:38.0) Gecko/20100101 Firefox/38.0",
   "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
   "Mozilla/5.0 CK={} (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko",
   "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36",
